@@ -1,0 +1,15 @@
+/home/agyt/projects/pro/data-formatting/obj/Debug/net8.0/data-formatting.GeneratedMSBuildEditorConfig.editorconfig
+/home/agyt/projects/pro/data-formatting/obj/Debug/net8.0/data-formatting.AssemblyInfoInputs.cache
+/home/agyt/projects/pro/data-formatting/obj/Debug/net8.0/data-formatting.AssemblyInfo.cs
+/home/agyt/projects/pro/data-formatting/obj/Debug/net8.0/data-formatting.csproj.CoreCompileInputs.cache
+/home/agyt/projects/pro/data-formatting/bin/Debug/net8.0/data-formatting
+/home/agyt/projects/pro/data-formatting/bin/Debug/net8.0/data-formatting.deps.json
+/home/agyt/projects/pro/data-formatting/bin/Debug/net8.0/data-formatting.runtimeconfig.json
+/home/agyt/projects/pro/data-formatting/bin/Debug/net8.0/data-formatting.dll
+/home/agyt/projects/pro/data-formatting/bin/Debug/net8.0/data-formatting.pdb
+/home/agyt/projects/pro/data-formatting/obj/Debug/net8.0/data-formatting.dll
+/home/agyt/projects/pro/data-formatting/obj/Debug/net8.0/refint/data-formatting.dll
+/home/agyt/projects/pro/data-formatting/obj/Debug/net8.0/data-formatting.pdb
+/home/agyt/projects/pro/data-formatting/obj/Debug/net8.0/data-formatting.genruntimeconfig.cache
+/home/agyt/projects/pro/data-formatting/obj/Debug/net8.0/ref/data-formatting.dll
+/home/agyt/projects/pro/data-formatting/obj/Debug/net8.0/data-formatting.sourcelink.json

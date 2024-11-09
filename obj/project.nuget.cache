@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mt6IYfJPN5KfJ0ivVbuLz1xY6RzIOA7rRpRNk79L1+yJT0WoBuMzrsrw0rt9impnOGyIzm/aegQoNkKzteIG3g==",
+  "success": true,
+  "projectFilePath": "/home/agyt/projects/pro/data-formatting/data-formatting.csproj",
+  "expectedPackageFiles": [
+    "/home/agyt/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
