@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/agyt/projects/pro/data-formatting/data-formatting.csproj": {}
+    "/home/agyt/projects/pro/data-formating/data-formatting-csharp.csproj": {}
   },
   "projects": {
-    "/home/agyt/projects/pro/data-formatting/data-formatting.csproj": {
+    "/home/agyt/projects/pro/data-formating/data-formatting-csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/agyt/projects/pro/data-formatting/data-formatting.csproj",
-        "projectName": "data-formatting",
-        "projectPath": "/home/agyt/projects/pro/data-formatting/data-formatting.csproj",
+        "projectUniqueName": "/home/agyt/projects/pro/data-formating/data-formatting-csharp.csproj",
+        "projectName": "data-formatting-csharp",
+        "projectPath": "/home/agyt/projects/pro/data-formating/data-formatting-csharp.csproj",
         "packagesPath": "/home/agyt/.nuget/packages/",
-        "outputPath": "/home/agyt/projects/pro/data-formatting/obj/",
+        "outputPath": "/home/agyt/projects/pro/data-formating/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/agyt/.nuget/NuGet/NuGet.Config"

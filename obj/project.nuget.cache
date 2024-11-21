@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mt6IYfJPN5KfJ0ivVbuLz1xY6RzIOA7rRpRNk79L1+yJT0WoBuMzrsrw0rt9impnOGyIzm/aegQoNkKzteIG3g==",
+  "dgSpecHash": "Pfe5Kn6wSa+Mb8jLbLL4MdfZsbyVJib1ipTqC1UmwfalJ8tM+0esoPPukS4PldC03aCWJOWbmFN11ZSm4GvNVg==",
   "success": true,
-  "projectFilePath": "/home/agyt/projects/pro/data-formatting/data-formatting.csproj",
+  "projectFilePath": "/home/agyt/projects/pro/data-formating/data-formatting-csharp.csproj",
   "expectedPackageFiles": [
     "/home/agyt/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
   ],

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "data-formatting/1.0.0": {
+      "data-formatting-csharp/1.0.0": {
         "runtime": {
-          "data-formatting.dll": {}
+          "data-formatting-csharp.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "data-formatting/1.0.0": {
+    "data-formatting-csharp/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

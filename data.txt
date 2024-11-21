@@ -116,4 +116,3 @@ products:
 		 - quantity: 25
 		 - weight: 1.5 kg
 
-
